@@ -12,6 +12,7 @@
         MinWidth="730"
         Icon="smile.ico">
     <Window.Resources>
+        <local:BorderConverter x:Key="BorderConversor"/>
         <Style TargetType="TextBlock"
                x:Key="etiquetaCampo">
             <Setter Property="Margin"

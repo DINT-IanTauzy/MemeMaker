@@ -23,6 +23,7 @@ namespace MemeMaker
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
